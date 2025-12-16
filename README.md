@@ -3,7 +3,7 @@
 A sophisticated Pairs Trading Dashboard that ingests real-time cryptocurrency data from Binance, calculates statistical arbitrage opportunities using Cointegration/Z-Score analysis, and visualizes them in an interactive Streamlit interface.
 
 ## 📺 Demo Video
-**[Click here to watch the project walkthrough video](YOUR_DRIVE_VIDEO_LINK_HERE)**
+**[Click here to watch the project walkthrough video](https://drive.google.com/file/d/19ZeuAYbum1AIx8D9y9fbMAYOrJOjK8UY/view?usp=sharing)**
 
 ---
 
